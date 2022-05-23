@@ -15,4 +15,6 @@ git add hello.py     add file to stagging area
 git add .   to add all the files to stagging area
 git status to check the status 
 git commit -m "message"           command (send along with message) to commit to create checkpoint 
-git checkout hello.py      
+git checkout hello.py            command to revert the changes in the file 
+git log         command record the changes in the file 
+git log -p -1    command to see the changes in the file (press q to eliminate)
