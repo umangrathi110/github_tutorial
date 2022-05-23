@@ -18,3 +18,4 @@ git commit -m "message"           command (send along with message) to commit to
 git checkout hello.py            command to revert the changes in the file 
 git log         command record the changes in the file 
 git log -p -1    command to see the changes in the file (press q to eliminate)
+git diff    command to see the changes betwwen the last commit to till now 
