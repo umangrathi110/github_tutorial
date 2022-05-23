@@ -10,4 +10,9 @@ git config --global user.name "Umang Rathi"        to set the user name
 git config --global user.name            to check user name is set or not 
 git config --global user.email "umangrathi110@gmail.com"    to set the email address
 git config --global user.email   to check the email is set or not 
-git init   to create the empty repository 
+git init   initialize empty git repository 
+git add hello.py     add file to stagging area
+git add .   to add all the files to stagging area
+git status to check the status 
+git commit -m "message"           command (send along with message) to commit to create checkpoint 
+git checkout hello.py      
