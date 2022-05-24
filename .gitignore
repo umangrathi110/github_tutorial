@@ -1,3 +1,5 @@
 cache.txt
 logs.txt
 waste.txt
+/new
+*.txt   all text files are ignored
