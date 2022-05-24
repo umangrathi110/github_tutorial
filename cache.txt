@@ -29,3 +29,4 @@ git checkout f1   to switch to branch f1
 git checkout -b button(branch name)   to make branch and switch into them 
 git remote add origin   
 git push origin master   for pushing    
+git push origin f1 to push the branch 
