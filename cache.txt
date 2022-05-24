@@ -21,3 +21,8 @@ git log -p -1    command to see the changes in the file (press q to eliminate)
 git diff    command to see the changes betwwen the last commit to till now 
 touch .gitignore used to ignore the files to add 
 /new to ignore the folder 
+
+branches
+git branch   to check the branch 
+git branch f1   to create the branch f1
+git checkout f1   to switch to branch f1
