@@ -1,0 +1,22 @@
+// linux command
+(code .) command is used to open the folder in the vs code 
+(touch) command is used to create the new file example (touch hello.py)
+(ls) command is used to see the files in the folder 
+(ls -lart)   to see the hidden files 
+(clear) is used to clear the terminal
+
+// github commnad 
+git config --global user.name "Umang Rathi"        to set the user name 
+git config --global user.name            to check user name is set or not 
+git config --global user.email "umangrathi110@gmail.com"    to set the email address
+git config --global user.email   to check the email is set or not 
+git init   initialize empty git repository 
+git add hello.py     add file to stagging area
+git add .   to add all the files to stagging area
+git status to check the status 
+git commit -m "message"           command (send along with message) to commit to create checkpoint 
+git checkout hello.py            command to revert the changes in the file 
+git log         command record the changes in the file 
+git log -p -1    command to see the changes in the file (press q to eliminate)
+git diff    command to see the changes betwwen the last commit to till now 
+touch .gitignore used to ignore the files to add 
